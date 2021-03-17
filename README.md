@@ -1,1 +1,1 @@
-  view [https://app.netlify.com/sites/olexandrbaran-birthdayreminder/overview]
+  view [https://olexandrbaran-birthdayreminder.netlify.app/]
